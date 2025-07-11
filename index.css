@@ -30,6 +30,12 @@
     color: aliceblue;
     background-color: #4E47FF;
     border: none;
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+}
+.frontpage-btn:hover {
+        background-color: yellow;
+        color: black;
 }
 
 /* banner titles styles */
@@ -52,6 +58,12 @@
     background-color: #4E47FF;
     border: none;
     margin-left: 42%;
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+}
+.frontpage-btn-2:hover {
+        background-color: yellow;
+        color: black;
 }
 
 /* second page */
@@ -88,6 +100,12 @@
     background-color: #4E47FF;
     border: none;
     flex-wrap: wrap;
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+}
+.launch-live-button:hover {
+        background-color: yellow;
+        color: black;
 }
 .page-2-image{
     width: 403px;
@@ -211,6 +229,12 @@
     color: aliceblue;
     background-color: #4E47FF;
     text-align: center;
+    cursor: pointer;
+    transition: background-color o.5s ease;
+}
+.touch-btn:hover {
+        background-color: yellow;
+        color: black;
 }
 
 /* footer style */
