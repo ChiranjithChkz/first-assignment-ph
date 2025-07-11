@@ -169,10 +169,11 @@
     text-align: left;
     padding-top: 200px;
     padding-bottom: 200px;
+    padding-left: 130px;
 
 }
 .form-section{
-    padding: 110px 150px 0px 0px;
+    padding: 90px 100px 120px 0px;
      
 }
 .box-label{
@@ -210,4 +211,29 @@
     color: aliceblue;
     background-color: #4E47FF;
     text-align: center;
+}
+
+/* footer style */
+
+.footer-page{
+    height: 30px;   
+}
+
+.last-section{
+    text-align: center;
+    /* width: 198px;
+    height: 30px; */
+
+}
+.footer-links{
+    text-align: center;
+}
+.logo-icon{
+      font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 100px;
+    color: rgba(78, 71, 255, 1);
+    flex-wrap: wrap;
+    row-gap: none;
 }
