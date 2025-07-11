@@ -1,3 +1,6 @@
+
+ 
+ 
  .frontpage-bg{
     margin: 0%;
     background-image:url(./styles/Assets/Hero-bg.png);
@@ -29,7 +32,7 @@
     border-radius: 10PX;
     color: aliceblue;
     background-color: #4E47FF;
-    border: none;
+     border: none;
     cursor: pointer;
     transition: background-color 0.5s ease;
 }
@@ -167,6 +170,79 @@
     color: rgba(0, 0, 0, 0.5);
      
 }
+  /* card-styles */
+
+.card-production{
+    height: 342px;
+    margin-bottom: 80px;
+}
+.card-heading{
+     font-family: "Raleway", sans-serif;
+     font-optical-sizing: auto;
+    font-style: normal;
+    text-align: center;
+    font-size: 42px;
+    font-weight: bold;
+
+}
+.card-box{
+    display: flex;
+    gap: 40px;
+    padding-left: 90px;
+}
+.card-design{
+     padding: 24px;
+     width:366px ;
+     height: 200px;
+     border: 2px solid white;
+     border-radius: 10px;
+     border: none;
+     background-color: rgba(227, 212, 212, 0.5);
+    box-shadow: 5px 5px rgba(188, 187, 209, 0.5);  ;
+}
+.card-titles{
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.card-subtitle{
+    font-size: 16px;
+     color: rgba(37, 36, 50, 0.5);
+     margin-bottom: 30px;
+}
+.users-section{
+    display: flex;
+    gap: 30px;
+    
+}
+.avatar-img{
+    border-radius: 50%;
+    
+}
+.user-id{
+      font-family: "Raleway", sans-serif;
+     font-optical-sizing: auto;
+    font-style: normal;
+}
+.date{
+    font-size: 10px;
+    color: rgba(37, 36, 50, 0.5);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* form page  */
